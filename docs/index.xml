@@ -6,9 +6,20 @@
     <description>Recent content on Insane Code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Fri, 03 Nov 2017 13:19:18 -0400</lastBuildDate>
     
 	<atom:link href="http://jesusantguerrero.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>My First</title>
+      <link>http://jesusantguerrero.com/blog/posts/my-first/</link>
+      <pubDate>Fri, 03 Nov 2017 13:19:18 -0400</pubDate>
+      
+      <guid>http://jesusantguerrero.com/blog/posts/my-first/</guid>
+      <description>##Prueba de mi primer post
+Hola soy el primer post de jesus jajjaaj</description>
+    </item>
     
   </channel>
 </rss>

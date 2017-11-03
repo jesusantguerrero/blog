@@ -1,4 +1,5 @@
 baseURL = "http://jesusantguerrero.com/blog/"
+publishDir = "docs"
 languageCode = "en-us"
 title = "Insane Code"
 theme="ananke" 
