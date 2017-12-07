@@ -6,10 +6,39 @@
     <description>Recent content on Insane Code</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Nov 2017 02:04:17 -0400</lastBuildDate>
+    <lastBuildDate>Thu, 07 Dec 2017 13:41:58 -0400</lastBuildDate>
     
 	<atom:link href="http://jesusantguerrero.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Contact</title>
+      <link>http://jesusantguerrero.com/blog/page/contact/</link>
+      <pubDate>Thu, 07 Dec 2017 13:41:58 -0400</pubDate>
+      
+      <guid>http://jesusantguerrero.com/blog/page/contact/</guid>
+      <description> this is the contact page </description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://jesusantguerrero.com/blog/page/projects/</link>
+      <pubDate>Thu, 07 Dec 2017 12:50:20 -0400</pubDate>
+      
+      <guid>http://jesusantguerrero.com/blog/page/projects/</guid>
+      <description>here&amp;rsquo;s a list of the project i am most proud of lala lala
+lala</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://jesusantguerrero.com/blog/page/about/</link>
+      <pubDate>Thu, 07 Dec 2017 12:49:54 -0400</pubDate>
+      
+      <guid>http://jesusantguerrero.com/blog/page/about/</guid>
+      <description>I am Insane Code Here is were i let free my thoughts about some topics related with programming also a more acurate description of my projects (all of them) and the challenges I have faced in my learning path.
+welcome to the jungle.</description>
+    </item>
     
     <item>
       <title>Posts</title>
@@ -18,6 +47,24 @@
       
       <guid>http://jesusantguerrero.com/blog/page/posts/</guid>
       <description> Todos los </description>
+    </item>
+    
+    <item>
+      <title>With Image</title>
+      <link>http://jesusantguerrero.com/blog/posts/with-image/</link>
+      <pubDate>Sat, 04 Nov 2017 22:58:30 -0400</pubDate>
+      
+      <guid>http://jesusantguerrero.com/blog/posts/with-image/</guid>
+      <description> This post have an image </description>
+    </item>
+    
+    <item>
+      <title>Second</title>
+      <link>http://jesusantguerrero.com/blog/posts/second/</link>
+      <pubDate>Fri, 03 Nov 2017 14:05:37 -0400</pubDate>
+      
+      <guid>http://jesusantguerrero.com/blog/posts/second/</guid>
+      <description>This is my second post now that iam ready check this</description>
     </item>
     
     <item>

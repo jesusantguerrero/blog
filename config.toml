@@ -3,3 +3,7 @@ publishDir = "docs"
 languageCode = "en-us"
 title = "Insane Code"
 theme="insanecode" 
+[params]
+  topphrase="One line of code at time"
+  description="We build the web"
+  author="Jesus Guerrero"

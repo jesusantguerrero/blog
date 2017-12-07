@@ -3,8 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://jesusantguerrero.com/blog/page/contact/</loc>
+    <lastmod>2017-12-07T13:41:58-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jesusantguerrero.com/blog/page/projects/</loc>
+    <lastmod>2017-12-07T12:50:20-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jesusantguerrero.com/blog/page/about/</loc>
+    <lastmod>2017-12-07T12:49:54-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://jesusantguerrero.com/blog/page/posts/</loc>
     <lastmod>2017-11-05T02:04:17-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jesusantguerrero.com/blog/posts/with-image/</loc>
+    <lastmod>2017-11-04T22:58:30-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://jesusantguerrero.com/blog/posts/second/</loc>
+    <lastmod>2017-11-03T14:05:37-04:00</lastmod>
   </url>
   
   <url>
@@ -14,6 +39,18 @@
   
   <url>
     <loc>http://jesusantguerrero.com/blog/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jesusantguerrero.com/blog/tags/code/</loc>
+    <lastmod>2017-11-03T14:05:37-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jesusantguerrero.com/blog/tags/english/</loc>
+    <lastmod>2017-11-03T14:05:37-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -31,19 +68,25 @@
   
   <url>
     <loc>http://jesusantguerrero.com/blog/</loc>
-    <lastmod>2017-11-05T02:04:17-04:00</lastmod>
+    <lastmod>2017-12-07T13:41:58-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://jesusantguerrero.com/blog/tags/insane-code/</loc>
+    <lastmod>2017-11-03T14:05:37-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jesusantguerrero.com/blog/page/</loc>
-    <lastmod>2017-11-05T02:04:17-04:00</lastmod>
+    <lastmod>2017-12-07T13:41:58-04:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>http://jesusantguerrero.com/blog/posts/</loc>
-    <lastmod>2017-11-03T13:19:18-04:00</lastmod>
+    <lastmod>2017-11-04T22:58:30-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -55,7 +98,7 @@
   
   <url>
     <loc>http://jesusantguerrero.com/blog/tags/</loc>
-    <lastmod>2017-11-03T13:19:18-04:00</lastmod>
+    <lastmod>2017-11-03T14:05:37-04:00</lastmod>
     <priority>0</priority>
   </url>
   
