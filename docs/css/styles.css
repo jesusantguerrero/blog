@@ -13,16 +13,7 @@
   --contrast-color: dodgerblue;
 }
 
-header {
-  height: 100px;
-  width: 100%;
-  display: flex;
-  padding: 0 70px;
-  background: transparent;
-  color: var(--primary-color);
-  margin: 0 auto;
-  position: fixed;
-}
+
 
 .title,
 .subtitle,

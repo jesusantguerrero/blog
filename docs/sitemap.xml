@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://jesusantguerrero.com/blog/posts/cuarto/</loc>
+    <lastmod>2017-12-09T01:35:12-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://jesusantguerrero.com/blog/page/contact/</loc>
     <lastmod>2017-12-07T13:41:58-04:00</lastmod>
   </url>
@@ -68,7 +73,7 @@
   
   <url>
     <loc>http://jesusantguerrero.com/blog/</loc>
-    <lastmod>2017-12-07T13:41:58-04:00</lastmod>
+    <lastmod>2017-12-09T01:35:12-04:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -86,7 +91,7 @@
   
   <url>
     <loc>http://jesusantguerrero.com/blog/posts/</loc>
-    <lastmod>2017-11-04T22:58:30-04:00</lastmod>
+    <lastmod>2017-12-09T01:35:12-04:00</lastmod>
     <priority>0</priority>
   </url>
   
