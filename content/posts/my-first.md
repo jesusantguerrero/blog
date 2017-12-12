@@ -7,5 +7,5 @@ categories: ['programming']
 
 # Prueba de mi primer post
 
-Hola soy el primer post de jesus jajjaaj
+Hola soy el primer post de jesus
 
